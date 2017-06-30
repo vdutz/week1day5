@@ -1,0 +1,17 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "Just an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chalk"
+  ],
+  "author": "Vlad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
+}
