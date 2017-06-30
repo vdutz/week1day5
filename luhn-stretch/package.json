@@ -1,0 +1,11 @@
+{
+  "name": "luhn-stretch",
+  "version": "1.0.0",
+  "description": "code containing luhn algorithm and test for algorithm",
+  "main": "module.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vlad",
+  "license": "ISC"
+}
